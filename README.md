@@ -17,13 +17,12 @@ Dengan breakpoint, elemen website dapat berubah posisi atau ukuran sesuai perang
 pada layar kecil (mobile) atau layar besar (desktop).
 
 7. Class Bootstrap  
-1.Bootstrap menyediakan banyak class siap pakai. Contohnya:
-2.btn btn-primary untuk membuat tombol berwarna biru.
-3.text-center untuk meratakan teks ke tengah.
-4.bg-danger untuk memberi latar belakang merah.
-5.container untuk membuat wadah utama dengan padding otomatis.
-6.row dan col untuk membangun layout grid.
-
+Bootstrap menyediakan banyak class siap pakai. Contohnya:
+1.btn btn-primary untuk membuat tombol berwarna biru.
+2.text-center untuk meratakan teks ke tengah.
+3.bg-danger untuk memberi latar belakang merah.
+4.container untuk membuat wadah utama dengan padding otomatis.
+5.row dan col untuk membangun layout grid.
 Class‑class ini membantu mempercepat styling tanpa harus menulis CSS manual.
 
 5. Gambar Responsif  
