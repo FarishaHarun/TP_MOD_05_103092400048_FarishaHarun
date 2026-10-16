@@ -23,7 +23,8 @@ pada layar kecil (mobile) atau layar besar (desktop).
 4.bg-danger untuk memberi latar belakang merah.
 5.container untuk membuat wadah utama dengan padding otomatis.
 6.row dan col untuk membangun layout grid.
-7.Class‑class ini membantu mempercepat styling tanpa harus menulis CSS manual.
+
+Class‑class ini membantu mempercepat styling tanpa harus menulis CSS manual.
 
 5. Gambar Responsif  
 Agar gambar pada website responsif, Bootstrap menyediakan class img-fluid.
